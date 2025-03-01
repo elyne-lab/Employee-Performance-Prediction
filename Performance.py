@@ -65,8 +65,8 @@ def main():
 
         st.markdown(
     """
-    <h1 style='text-align: left; color: #567ED0; font-family: Verdana, Geneva, sans-serif;'>
-    INX Future Inc. Employee Performance Analysis
+    <h1 style='text-align: centre; color: #567ED0; font-family: Verdana, Geneva, sans-serif;'>
+    INX Future Inc.
     </h1>
     """,
     unsafe_allow_html=True,
